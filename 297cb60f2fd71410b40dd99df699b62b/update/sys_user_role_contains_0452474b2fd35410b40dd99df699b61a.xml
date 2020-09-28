@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="example_ticketing" name="example_ticketing">b342474b2fd35410b40dd99df699b609</contains>
+        <role display_value="x_9076_ex_tkt.agent" name="x_9076_ex_tkt.agent">dcac728b2f5b1410b40dd99df699b6b4</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 18:24:24</sys_created_on>
+        <sys_id>0452474b2fd35410b40dd99df699b61a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>example_ticketing.x_9076_ex_tkt.agent</sys_name>
+        <sys_package display_value="Example Ticketing" source="x_9076_ex_tkt">297cb60f2fd71410b40dd99df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Example Ticketing">297cb60f2fd71410b40dd99df699b62b</sys_scope>
+        <sys_update_name>sys_user_role_contains_0452474b2fd35410b40dd99df699b61a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 18:24:24</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
